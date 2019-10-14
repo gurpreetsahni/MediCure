@@ -1,2 +1,2 @@
-# Medicure
+# MediCure
 Application for Emergency Medical Help.
